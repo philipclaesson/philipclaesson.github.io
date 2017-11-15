@@ -3,11 +3,11 @@
 <img src = "https://philipclaesson.github.io/img/pc_rund.png" width="250">
 
 ### MSc Computer Science student
-### With Major in Data Science and minor in Innovation & Entrepreneurship at:
+### Major in Data Science and minor in Innovation & Entrepreneurship at:
 
 ### [Politecnico di Milano](https://polimi.it/)
 ### and [KTH Stockholm](https://kth.se) 
-### through [EIT Digital](https://masterschool.eitdigital.eu/education/why-eit-digital-master-school/).
+### through [EIT Digital](https://masterschool.eitdigital.eu/education/why-eit-digital-master-school/)'s double degree programme.
 
 ## Projects
 Here are a few fun projects I'm proud of. 
