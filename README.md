@@ -8,7 +8,7 @@
 ### through [EIT Digital](https://masterschool.eitdigital.eu/education/why-eit-digital-master-school/).
 
 ## About Me
-![pic of pc](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://philipclaesson.github.io/img/pc_rund.png "Bild på pc")
 
 Bio
 
