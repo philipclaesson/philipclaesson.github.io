@@ -8,7 +8,7 @@
 ### through [EIT Digital](https://masterschool.eitdigital.eu/education/why-eit-digital-master-school/).
 
 ## About Me
-![alt text](https://philipclaesson.github.io/img/pc_rund.png "Bild på pc")
+![](https://philipclaesson.github.io/img/pc_rund.png =200x)
 
 Bio
 
