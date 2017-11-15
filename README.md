@@ -1,13 +1,13 @@
 # Hi, I'm Philip Claesson. 
 
+<img src = "https://philipclaesson.github.io/img/pc_rund.png" width="250">
+
 ### MSc Computer Science student
 ### With Major in Data Science and minor in Innovation & Entrepreneurship at:
 
 ### [Politecnico di Milano](https://polimi.it/)
 ### and [KTH Stockholm](https://kth.se) 
 ### through [EIT Digital](https://masterschool.eitdigital.eu/education/why-eit-digital-master-school/).
-
-<img src = "https://philipclaesson.github.io/img/pc_rund.png" width="250">
 
 ## Projects
 Here are a few fun projects I'm proud of. 
@@ -32,9 +32,5 @@ Here are a few fun projects I'm proud of.
 * [philipcl@kth.se](mailto:philipcl@kth.se)
 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-
-
-
-[editor on GitHub](https://github.com/philipclaesson/philipclaesson.github.io/edit/master/README.md)
+[e](https://github.com/philipclaesson/philipclaesson.github.io/edit/master/README.md)
