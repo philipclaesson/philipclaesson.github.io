@@ -8,7 +8,7 @@
 ### through [EIT Digital](https://masterschool.eitdigital.eu/education/why-eit-digital-master-school/).
 
 ## About Me
-![](https://philipclaesson.github.io/img/pc_rund.png =200x)
+<img src = "https://philipclaesson.github.io/img/pc_rund.png" width="250">
 
 Bio
 
@@ -30,6 +30,10 @@ Here are a few fun projects I'm proud of.
 
 
 ### Contact & More! 
+![GitHub](https://github.com/philipclaesson/philipclaesson.github.io/blob/master/img/GitHub-Mark-32px.png)[GitHub](https://github.com/philipclaesson)
+![LinkedIn](https://github.com/philipclaesson/philipclaesson.github.io/blob/master/img/In-2C-34px-TM.png)[LinkedIn](https://linkedin.com/philipclaesson)
+Mail [philipcl@kth.se](mailto:philipcl@kth.se)
+
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
