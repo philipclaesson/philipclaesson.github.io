@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Hi, I'm Philip Claesson. 
 
-You can use the [editor on GitHub](https://github.com/philipclaesson/philipclaesson.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### MSc Computer Science student
+### With Major in Data Science and minor in Innovation & Entrepreneurship at:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [Politecnico di Milano](https://polimi.it/)
+### and [KTH Stockholm](https://kth.se) 
+### through [EIT Digital](https://masterschool.eitdigital.eu/education/why-eit-digital-master-school/).
 
-### Markdown
+## About Me
+![pic of pc](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Bio
 
-```markdown
-Syntax highlighted code block
+## Projects
+Here are a few fun projects I'm proud of. 
 
-# Header 1
-## Header 2
-### Header 3
+### Entrepreneurial Projects
+[Klimato](https://philipclaesson.github.io/klimato) - Me and three friends are founding a climate friendly startup. 
 
-- Bulleted
-- List
+[Programming Workshops Rinkeby](https://philipclaesson.github.io/rinkeby) - Programming Workshops for kids in Rinkeby, Stockholm. 
 
-1. Numbered
-2. List
+### Data Science Projects
+[Song Recommender System](https://github.com/philipclaesson/songrecommender) - A recommender system that recommends songs to playlists. 
 
-**Bold** and _Italic_ and `Code` text
+[The Titanic Challenge](https://github.com/philipclaesson/Titanic) - A basic binary classification on Kaggle. 
 
-[Link](url) and ![Image](src)
-```
+### Other Programming Projects
+[My Bachelor Thesis](http://www.diva-portal.org/smash/record.jsf?dswid=903&pid=diva2%3A1129950&c=4&searchType=SIMPLE&language=en&query=philip+claesson&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all) - A system which analysed CO2e-emissions from school restaurants in Stockholm. Will be published as a work in progress at [Sustain-IT 2017](https://sustainit2017.m-iti.org/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/philipclaesson/philipclaesson.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+### Contact & More! 
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+
+[editor on GitHub](https://github.com/philipclaesson/philipclaesson.github.io/edit/master/README.md)
