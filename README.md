@@ -20,10 +20,10 @@ Here are a few fun projects I'm proud of.
 ### Data Science Projects
 [Song Recommender System](https://github.com/philipclaesson/songrecommender) - A recommender system that recommends songs to playlists. 
 
-[The Titanic Challenge](https://github.com/philipclaesson/Titanic) - A basic binary classification on Kaggle. 
+[The Titanic Challenge](https://github.com/philipclaesson/Titanic) - A basic binary classification challenge on Kaggle. 
 
 ### Other Programming Projects
-[My Bachelor Thesis](http://www.diva-portal.org/smash/record.jsf?dswid=903&pid=diva2%3A1129950&c=4&searchType=SIMPLE&language=en&query=philip+claesson&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all) - A system which analysed CO2e-emissions from school restaurants in Stockholm. Will be published as a work in progress at [Sustain-IT 2017](https://sustainit2017.m-iti.org/)
+[My Bachelor Thesis](http://www.diva-portal.org/smash/record.jsf?dswid=903&pid=diva2%3A1129950&c=4&searchType=SIMPLE&language=en&query=philip+claesson&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all) - A system which analysed CO2e-emissions from school restaurants in Stockholm. Will be published as a 'Work in Progress'-paper at [Sustain-IT 2017](https://sustainit2017.m-iti.org/)
 
 [Spotify Birthday Party Queue](https://github.com/philipclaesson/BirthdayQueue) - A collaborative queue build using Python &, an email server and the Spotify Web API.
 
