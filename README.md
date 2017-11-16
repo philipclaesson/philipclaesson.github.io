@@ -1,7 +1,5 @@
 # Hi, I'm Philip Claesson. 
 
-<img src = "https://philipclaesson.github.io/img/pc_rund.png" width="250">
-
 ### MSc Computer Science student
 ### Major in Data Science and minor in Innovation & Entrepreneurship at:
 
