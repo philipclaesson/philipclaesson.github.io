@@ -14,7 +14,7 @@ We target restaurants, kitchens and consumers in Sweden. We are were voted one o
 - Development of the concept at large (together with 3 other founders)
 - Building [klimato.se](https://klimato.se) (node.js, HTML, CSS) 
 - LCA and climate data expertise
-- Leading the development of the web based product.
+- Leading the development of the web based product. (node.js, vue.js, MongoDB, SASS) 
 - Creating all graphic content (except logo)
 
 ## More
