@@ -36,6 +36,3 @@ Here are a few fun projects I'm proud of.
 * [LinkedIn](https://linkedin.com/philipclaesson)
 * [philipcl@kth.se](mailto:philipcl@kth.se)
 
-
-
-[e](https://github.com/philipclaesson/philipclaesson.github.io/edit/master/README.md)
