@@ -19,8 +19,7 @@ We target restaurants, kitchens and consumers in Sweden. We are were voted one o
 
 ## More
 - [Klimato.se](https://klimato.se/)
-
 - [Facebook](https://facebook.com/klimatosweden)
-
 - [A Swedish Newspaper](https://www.sydsvenskan.se/2017-10-11/upplysning-kan-minska-utslapp)
+- [hello@klimato.se](mailto:hello@klimato.se)
 
