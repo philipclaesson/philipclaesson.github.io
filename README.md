@@ -18,7 +18,7 @@ Here are a few fun projects I'm proud of.
 ### Data Science Projects
 [Song Recommender System](https://github.com/philipclaesson/songrecommender) - A recommender system that recommends songs to playlists. 
 
-[Big Data Anonymity Research Project](https://github.com/moritzmeister/flinkanonymity) - Researching how to apply k-anonimity and l-diversity onto streamed data using Apache Flink. Recently started. 
+[Big Data Anonymity Research Project](https://github.com/moritzmeister/flinkanonymity) - Researching how to apply k-anonimity and l-diversity onto streamed data using Apache Flink. Recently started, together with [Moritz Meister](https://github.com/moritzmeister). 
 
 [The Titanic Challenge](https://github.com/philipclaesson/Titanic) - A basic binary classification challenge on Kaggle. 
 
