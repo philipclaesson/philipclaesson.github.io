@@ -16,12 +16,11 @@ Here are a few fun projects I'm proud of.
 [Programming Workshops Rinkeby](https://philipclaesson.github.io/rinkeby) - Programming Workshops for kids in Rinkeby, Stockholm. 
 
 ### Data Science Projects
-[Song Recommender System](https://github.com/philipclaesson/songrecommender) - A recommender system that recommends songs to playlists. 
+[Song Recommender System](https://github.com/philipclaesson/songrecommender) - A content based recommender system that recommends songs to playlists. 
 
-[Big Data Anonymity Research Project](https://github.com/moritzmeister/flinkanonymity) - Researching how to apply k-anonymity and l-diversity onto streamed data using Apache Flink. Recently started, together with [Moritz Meister](https://github.com/moritzmeister). 
+[Big Data Anonymity Research Project](https://github.com/moritzmeister/flinkanonymity) - Researching how to apply k-anonymity and l-diversity onto streamed data using Apache Flink. Together with [Moritz Meister](https://github.com/moritzmeister). 
 
-[The Titanic Challenge](https://github.com/philipclaesson/Titanic) - A basic binary classification challenge on Kaggle. 
-
+[Neural Networks](https://github.com/philipclaesson/neural-networks/) - Building basic Neural Networks from scratch. 
 
 
 ### Other Programming Projects
