@@ -34,6 +34,8 @@ Here are a few fun projects I'm proud of.
 
 ### More
 [GitHub](https://github.com/philipclaesson)
-[LinkedIn](https://linkedin.com/philipclaesson)
+
+[LinkedIn](https://www.linkedin.com/in/philipclaesson/)
+
 [philipcl@kth.se](mailto:philipcl@kth.se)
 
