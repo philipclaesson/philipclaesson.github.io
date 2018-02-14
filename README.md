@@ -18,7 +18,7 @@ Here are a few fun projects I'm proud of.
 ### Data Science Projects
 [Song Recommender System](https://github.com/philipclaesson/songrecommender) - A content based recommender system that recommends songs to playlists. 
 
-[Big Data Anonymity Research Project](https://github.com/moritzmeister/flinkanonymity) - Researching how to apply k-anonymity and l-diversity onto streamed data using Apache Flink. Together with [Moritz Meister](https://github.com/moritzmeister). 
+[Big Data Anonymity Research Project](https://github.com/moritzmeister/flinkanonymity) - Researching how to apply paralellized k-anonymity and l-diversity onto streamed data using Apache Flink. Together with [Moritz Meister](https://github.com/moritzmeister). 
 
 [Neural Networks](https://github.com/philipclaesson/neural-networks/) - Building basic Neural Networks from scratch. 
 
@@ -33,7 +33,7 @@ Here are a few fun projects I'm proud of.
 [Applied Computer Science Labs](https://gits-15.sys.kth.se/tildav15/philipcl-labbar) - Labs from Applied Computer Science @ KTH. 
 
 ### More
-* [GitHub](https://github.com/philipclaesson)
-* [LinkedIn](https://linkedin.com/philipclaesson)
-* [philipcl@kth.se](mailto:philipcl@kth.se)
+[GitHub](https://github.com/philipclaesson)
+[LinkedIn](https://linkedin.com/philipclaesson)
+[philipcl@kth.se](mailto:philipcl@kth.se)
 
