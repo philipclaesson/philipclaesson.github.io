@@ -20,7 +20,9 @@ Here are a few fun projects I'm proud of.
 
 [Big Data Anonymity Research Project](https://github.com/moritzmeister/flinkanonymity) - Researching how to apply paralellized k-anonymity and l-diversity onto streamed data using Apache Flink. Together with [Moritz Meister](https://github.com/moritzmeister). 
 
-[Neural Networks](https://github.com/philipclaesson/neural-networks/) - Building basic Neural Networks from scratch. 
+[Perceptron](https://github.com/philipclaesson/neural-networks/) - Building basic Neural Network Perceptron from scratch.
+
+[Pandas Data Science Labs](https://github.com/philipclaesson/mudatascience) - Applied Data Science with Python labs from Michigan University through [Coursera](https://www.coursera.org/specializations/data-science-python) 
 
 
 ### Other Programming Projects
