@@ -22,7 +22,7 @@ Here are a few fun projects I'm proud of.
 
 [Perceptron](https://github.com/philipclaesson/neural-networks/) - Building basic Neural Network Perceptron from scratch.
 
-[Pandas Data Science Labs](https://github.com/philipclaesson/mudatascience) - Applied Data Science with Python labs from Michigan University through [Coursera](https://www.coursera.org/specializations/data-science-python) 
+[Michigan University Data Science Labs](https://github.com/philipclaesson/mudatascience) - Applied Data Science with Python labs from Michigan University through [Coursera](https://www.coursera.org/specializations/data-science-python) 
 
 
 ### Other Programming Projects
