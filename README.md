@@ -17,7 +17,9 @@ Here are a few fun projects I'm proud of.
 
 [Face Detection on image stream w. Spark, OpenCV](https://github.com/GabrielePrato/SparkOpenCVFaceDetection-) - Applying face recognition on streamed images with Spark and OpenCV.
 
-[Neural Networks](https://github.com/philipclaesson/neural-networks/) - Building basic Neural Networks from scratch.
+[RBF Neural Networks](https://github.com/philipclaesson/ANNDA/blob/master/lab2/3.1%20RBF-w-noise.ipynb) - Building a basic Neural Networks with Radial Basis Functions from scratch. Training to fit noisy sinus and step functions.  
+
+[]
 
 ### Entrepreneurial Projects
 [Klimato](https://philipclaesson.github.io/klimato) - Me and three friends are founding a climate friendly startup.
@@ -34,7 +36,9 @@ Here are a few fun projects I'm proud of.
 [Applied Computer Science Labs](https://gits-15.sys.kth.se/tildav15/philipcl-labbar) - Labs from Applied Computer Science @ KTH.
 
 ### More
-* [GitHub](https://github.com/philipclaesson)
-* [LinkedIn](https://linkedin.com/philipclaesson)
-* [philipcl@kth.se](mailto:philipcl@kth.se)
+[GitHub](https://github.com/philipclaesson)
+
+[LinkedIn](https://www.linkedin.com/in/philipclaesson/)
+
+[philipcl@kth.se](mailto:philipcl@kth.se)
 
