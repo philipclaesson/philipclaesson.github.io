@@ -15,11 +15,9 @@ Here are a few fun projects I'm proud of.
 
 [Big Data Anonymity Research Project](https://github.com/moritzmeister/flinkanonymity) - Researching how to apply k-anonymity and l-diversity onto streamed data using Apache Flink. Together with [Moritz Meister](https://github.com/moritzmeister).
 
-[Face Detection on image stream w. Spark, OpenCV](https://github.com/GabrielePrato/SparkOpenCVFaceDetection-) - Applying face recognition on streamed images with Spark and OpenCV.
+[Face Detection on image stream w. Spark, OpenCV](https://github.com/GabrielePrato/SparkOpenCVFaceDetection-) - Applying face recognition on streamed images with Spark and OpenCV. With Gabriele Prato. 
 
 [RBF Neural Networks](https://github.com/philipclaesson/ANNDA/blob/master/lab2/3.1%20RBF-w-noise.ipynb) - Building a basic Neural Networks with Radial Basis Functions from scratch. Training to fit noisy sinus and step functions.  
-
-[]
 
 ### Entrepreneurial Projects
 [Klimato](https://philipclaesson.github.io/klimato) - Me and three friends are founding a climate friendly startup.
