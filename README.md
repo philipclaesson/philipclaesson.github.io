@@ -1,6 +1,6 @@
 # Philip Claesson.
 
-### MSc Computer Science #### at [Politecnico di Milano](https://polimi.it/) and [KTH](https://kth.se)
+#### MSc Computer Science at [Politecnico di Milano](https://polimi.it/) and [KTH](https://kth.se)
 
 ## Projects
 
