@@ -13,8 +13,6 @@
 
 [Face Detection on image stream w. Spark, OpenCV](https://github.com/GabrielePrato/SparkOpenCVFaceDetection-) - Applying face recognition on streamed images with Spark and OpenCV. With Gabriele Prato. 
 
-[RBF Neural Networks](https://github.com/philipclaesson/ANNDA/blob/master/lab2/3.1%20RBF-w-noise.ipynb) - Building a basic Neural Networks with Radial Basis Functions from scratch. Training to fit noisy sinus and step functions.  
-
 ### Projects
 [Klimato](https://klimato.se) - Me and three friends are founding a climate friendly startup.
 
